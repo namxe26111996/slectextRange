@@ -1,6 +1,6 @@
 
-// new window.SelectionText({
-//     element: document.getElementById('xx'),
-// });
+new window.SelectionText({
+    element: document.getElementById('xx'),
+    button: document.getElementById("save"),
+});
 
-alert('hello NTQ');
